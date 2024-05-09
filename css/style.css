@@ -1,0 +1,13 @@
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:90px;
+    color: black;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin: 40px;
+}
+.quote button:hover{
+    background-color: red;
+}
